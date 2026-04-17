@@ -359,7 +359,7 @@ cp ~/.patch/usr/bin/patch ~/.local/bin/
 ##### Install ani-cli:
 
 ```sh
-git clone https://github.com/pystardust/ani-cli.git ~/.ani-cli
+git https://github.com/ErenYeager01001A/ani-cli.git~/.ani-cli
 cp ~/.ani-cli/ani-cli ~/.local/bin/
 ```
 
@@ -383,7 +383,7 @@ In Steam Desktop app:
 
 ```sh
 sudo pkg install mpv fzf aria2 yt-dlp patch git
-git clone "https://github.com/pystardust/ani-cli.git"
+git clone "https://github.com/ErenYeager01001A/ani-cli.git"
 sudo cp ani-cli/ani-cli /usr/local/bin
 rm -rf ani-cli
 ```
@@ -407,7 +407,7 @@ sudo pkg install git
 install from source:
 
 ```sh
-git clone "https://github.com/pystardust/ani-cli.git"
+git clone "https://github.com/ErenYeager01001A/ani-cli.git"
 sudo cp ani-cli/ani-cli /usr/local/bin
 rm -rf ani-cli
 ```
@@ -421,7 +421,7 @@ rm -rf ani-cli
 Install dependencies [(See below)](#dependencies)
 
 ```sh
-git clone "https://github.com/pystardust/ani-cli.git"
+git clone "https://github.com/ErenYeager01001A/ani-cli.git"
 sudo cp ani-cli/ani-cli /usr/local/bin
 rm -rf ani-cli
 ```
