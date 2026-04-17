@@ -1,3 +1,9 @@
+# 🔥 ani-cli FIXED by [ErenYeager01001A](https://github.com/ErenYeager01001A) 🔥
+**We worked day and night to crack the new AES-256-CTR `tobeparsed` encryption from AllAnime!**
+**The script is back online and better than ever! Let's goooo! 🚀**
+
+---
+
 <p align=center>
 <br>
 <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
